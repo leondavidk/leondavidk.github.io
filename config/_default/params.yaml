@@ -6,12 +6,14 @@ hugoblox:
     tagline: Postdoctoral researcher | University of Zurich
     description: ""
   theme:
-    mode: system
-    pack: marine
+    mode: light
+    pack: minimal
     colors:
       primary: ""
       secondary: ""
       neutral: ""
+    colors_light:
+      primary: ""
   typography:
     font: sans
     size: md

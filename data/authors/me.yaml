@@ -14,13 +14,7 @@ postnominals:
 status:
   icon: "☕️"
 role: "Postdoctoral researcher"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+bio: "Hi, welcome to my website. I am a postdoctoral researcher at the Department of Political Science, University of Zurich.\n"
 affiliations:
   - name: "University of Zurich"
     url: "https://www.ipz.uzh.ch/de/personen/mitarbeitende/lkuest.html"
