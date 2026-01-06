@@ -9,13 +9,13 @@ hugoblox:
     mode: light
     pack: minimal
     colors:
-      primary: ""
-      secondary: ""
+      primary: "#292a6a"
+      secondary: "#ffffff"
       neutral: ""
     colors_light:
       primary: ""
   typography:
-    font: sans
+    font: serif
     size: md
   layout:
     radius: md
