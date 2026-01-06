@@ -3,8 +3,8 @@ slug: "me"
 is_owner: true
 name:
   display: "Leon Küstermann"
-  given: "Alex"
-  family: "Johnson"
+  given: "Leon"
+  family: "Küstermann"
   alternate: ""
   pronunciation: ""
   pronouns: "he/him"
@@ -13,7 +13,7 @@ postnominals:
   - "MIEEE"
 status:
   icon: "☕️"
-role: "Senior AI Research Scientist"
+role: "Postdoctoral researcher"
 bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
 
   has been published in top conferences like NeurIPS and ICML, with over
@@ -22,8 +22,8 @@ bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
 
   while ensuring ethical development.\n"
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "University of Zurich"
+    url: "https://www.ipz.uzh.ch/de/personen/mitarbeitende/lkuest.html"
 links:
   - icon: "at-symbol"
     url: "mailto:alex.johnson@example.com"
@@ -44,10 +44,10 @@ interests:
   - "Reinforcement Learning"
   - "AI Ethics"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
+  - degree: "PhD Political and Social Science"
+    institution: "European University Institute"
+    start: "2021-09-01"
+    end: "2025-08-31"
     summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
     button:
       text: "Download dissertation"
