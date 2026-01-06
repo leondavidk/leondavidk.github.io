@@ -33,10 +33,7 @@ links:
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-1825-0097"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Political Economy"
 education:
   - degree: "PhD Political and Social Science"
     institution: "European University Institute"
@@ -47,14 +44,6 @@ education:
       text: "Download dissertation"
       url: "/resume.pdf"
       icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
 experience:
   - role: "Senior AI Research Scientist"
     org: "Meta AI"
@@ -99,3 +88,4 @@ awards:
     date: "2022-12-01"
     summary: "Awarded for groundbreaking work on efficient training of large models."
     icon: "hero/trophy"
+weight: null
