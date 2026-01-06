@@ -16,7 +16,7 @@ sections:
       headings:
         about: "Welcome!"
         education: ""
-        interests: "Research areas"
+        interests: "Topi"
     design:
       background:
         gradient_mesh:
